@@ -1,0 +1,91 @@
+﻿1. When you type a letter on a computer’s keyboard, you are physically inputting the intended letter to the keyboard, 
+and this physical input triggers an output that signals the computer, using a scancode, that the user wants to display 
+a letter. To do so, the computer accepts the scancode and retrieves a preloaded image of the user’s intended letter that’s
+stored in the computer’s font memory compartment. This image is then transmitted to the computer’s graphical memory 
+compartment that converts the image of the letter to pixels to be able to display the image of the letter to the user.
+
+2. Computers use input and output to create experience through the effectiveness and creativity of User Interface. 
+One example of this is the physical computer itself. Desktop computers accept input from stationary mouses and keyboards 
+and confines the user to an immobile setting such as a desk at his or her house or office. This may be preferable to the 
+user because of social or productivity reasons. Desktop computers also tend to have better computing and graphical 
+performance than laptop computers, which appeals to users who play video games or work with high-resource software such as 
+video editing. Since laptop computers have strong portable batteries, users who work in groups and tend to be on the go are
+more inclined to use laptops rather than desktops. The physical input/output setup of a laptop allows users to adjust the 
+angle in which they view their screen, and allows them to use their computer on their lap or on a table, depending on their
+preference. Another example of creating experience with input and output through User Interface is software. There are 
+laptop computers and cell phones with similar physical attributes; however they run different operating systems and 
+therefore have different input/output systems. Some users may prefer the User Interface of MacOS over that of Windows 
+or Linux.
+
+3. Software products are essentially “infinitely reproducible nothings” because of the abundance and availability of free 
+and open-source software which can perform the same capabilities as the original software which comes at a cost. One 
+example of this is Microsoft Office compared to Apache OpenOffice and Google Drive. There is much less incentive in 
+purchasing Microsoft Office than there was before the introduction of these “freeware” that allows the user to perform 
+the same tasks. Also, there is no capital investment required in engineering a software product other than the cost of the 
+computer and electricity. Once that cost is paid for, a programmer can conceivably produce an infinite amount of software 
+products without incurring any costs.
+
+4. Coding becomes software through a series of input and output processes that begin with the user. The user’s goal is to 
+make the computer carry out a given set of instructions. Unfortunately for the user, the computer does not understand the 
+English, or any human language for that matter, and will have to use the specific programming language mandated syntax as 
+input (known as code) to send these instructions to the computer so that these instructions can be properly interpreted. 
+The computer uses a compiler to process the user’s inputted code and execute the code’s instructions. The compiler will 
+process the code character by character in order to properly follow the code’s instructions and produce the user’s expected
+result.
+
+5. An algorithm is a process of solving problems, quantitatively or not. There’s a common misconception about algorithms 
+in which they are confused with the term software. A problem solving process does not need to be associated with 
+programming to be considered an algorithm. A combination of algorithms can be managed and specially applied in programming 
+languages to engineer software. When a programmer is coding algorithms, he or she is coding them into functions that are 
+called upon when the computer is running the software. Typically a programmer does not need to code his or her own 
+algorithms as many of them are built into programming languages already - the programmer only needs to know the function 
+to call upon that represents the algorithm he or she needs in order for the computer to carry out the requested 
+instructions.
+
+6. Although computers have the processing power to carry out thousands of processes simultaneously, too many complicated 
+algorithms running at the same time can slow and even freeze a computer. When a programmer is coding, he or she will often 
+reuse the same algorithm, and the DRY (Don’t Repeat Yourself) principle encourages programmers to manipulate these 
+
+algorithms in their code a specific way and allow the computer this specific way to execute code instead of the programmer. This improves efficiency and minimizes redundancy.
+7. Compared to relatively raw programming languages used as a foundation in systems, object-oriented programming is an 
+organizational system for coding that allows programmers to call upon specifically named, pre-defined functions from a 
+library. This is quite important as programmers are able to organize these functions and collaboratively have access to 
+them, making their respective programming languages more universal. With a universal guideline of code, it is easier to 
+share, reuse, and debug the code, increasing the efficiency of coding.
+
+8. Data is any type of information that can be transmitted and collected. Data can be categorical or quantitative. Data is 
+crucial to understand for programmers as coding involves the management, analysis, and forecasting of data, and coding with
+data increases the value of the interpretation the data holds and potentially projects. Some data is so valuable that some 
+companies charge thousands of dollars to coders just for access to data, not even the interpretation of the data. Data can 
+be electronically stored in a database, and programmers extract data from popular databases and use it to complete their 
+data-oriented projects. Data is especially important in data science as the level of information is ever-increasing and the 
+world needs data scientists to analyze and interpret this information to make processes efficient and our lives easier.
+
+9. A framework is a type of foundation adopted in a programming project that allows programmers to save time by using 
+“template” code instead of writing code from the ground up. Frameworks are similar to libraries, but they take a step 
+forward and already have preset configurations and contain libraries themselves. Using a framework can be optimal for a 
+programmer as it allows them to adhere by the DRY principle and work on the code that has not been written and tested out 
+for them, however, using a framework can also be disadvantageous. One way is that it may influence a programmer to steer 
+their code by the framework’s boundaries, distracting the programmer from his initial intended goal.
+
+10. Debugging is the process of detecting which part of the code is breaking the program or software and how to adjust that
+defective code. When combining so many different functions to try to produce a complex software product, code is bound to 
+break. There may be syntax errors in the code, or a function is too aggressive and the computer won’t have enough resources 
+or time to produce a result. When a set of code produces an error, the programming console will generally show the 
+programmer the line of code that caused the program to break. As programmers continually run into these errors, they will 
+use their syntax errors and other faulty coding practices as reminders to improve and become more effective programmers.
+
+11. After reading the given article and gaining a more complete understanding of what code and the different aspects of 
+code are, I am even more eager to learn how to code. As someone who has been logic and problem-solving oriented since I 
+was a child, I have also always been fascinated by technology and pondered upon how a computer outputs and displays what I 
+wanna do for recreational and professional purposes. In recent years I have been wondering about what’s behind the scenes 
+on my favorite websites and computer programs. I believe programming is an art and learning how to code can be an 
+expression of my creativity. Coding is like a puzzle in which the programmer must come up with the perfect puzzle pieces 
+in the arrangement of proper syntax and functions. I am more motivated to code especially after reading the 
+“Debugging” section of the article as I do enjoy great challenges and overcoming adversity. 
+Since I consider programming an art and am motivated by the challenge of broken code, I expect to be continually testing 
+myself and will be in a constant state of learning. This aligns with my lifestyle as I consider myself a perpetual learner 
+about the world that surrounds me. I also believe that learning how to code will allow me to expand my analytical mind, as 
+I do spend a great deal of time shuffling through various political and sports statistics. I’ve previously mentioned that 
+data is ever-increasing in our world and I want to be a part of the group of programmers that are equipped with the skills 
+to interpret this perpetual wave of data and make the best decisions for the progress of humanity and society.

@@ -1,0 +1,12 @@
+1. Git is a version control system that is used to create and track changes made within repositories. It uses a branching
+system that allows the code to be organized and available to edit by more than one person. Git is often confused with GitHub,
+which is simply a popular platform that hosts Git repositories.
+
+2. Terminals are important as they allow programmers to control every part of the computer and allow them to carry out all
+computer functions outside of program capabilities and internet browsers. It can seem complicated to use a terminal, however,
+it is the most efficient way for a programmer to organize his or her code files for projects.
+
+3. One benefit to using version control systems is that alterations to the code are able to be monitored and organized,
+allowing different coders to compare and contrast functionality of the code. Another benefit to using version control
+systems is that code is available to edit by more than one person, enhancing collaborative efforts. Another benefit to
+version control systems is the branching systems that allows different code to be maintained at the same time.
