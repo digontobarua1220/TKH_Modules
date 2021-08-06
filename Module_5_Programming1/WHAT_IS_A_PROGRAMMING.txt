@@ -1,0 +1,45 @@
+1.	Python is an object-oriented programming language that provides a programmer the necessary 
+environment and tools to solve complex problems much more efficiently compared to a manual 
+approach. Since manual problem solving involves the possibility of human error and is limited by 
+the speed of the worker, efficient coding is much preferable to carry out tasks ranging from 
+everyday routine checklists to much more complex and tedious tasks in which humans are 
+basically guaranteed to be too slow and make mistakes. Python takes specific instructions and 
+commands from the programmer for web and software development and for data creation and 
+analysis uses. There are also many other general uses that someone can use someone can 
+benefit from Python coding. It is universally regarded as one of the most efficient and simple to 
+use programming languages due to its accessibility, syntax simplicity, versatility, and simple 
+interface. In fact, Python is the third most popular programming language used in the world. The 
+capabilities of using the python language expands due to catalogue of modules and libraries 
+containing useful functions that is continuously growing and available to the public. Python is an 
+open-source software, which means that anyone is free to contribute to use the programming 
+language and contribute to its development.
+2.	The Python language has three different data types to interpret and manipulate data. Some 
+widely used data types include integers, floats, strings, and Boolean values. Integers are whole 
+number data values and can be positive or negative. Their syntax in Python is (int). Floats, 
+known as floating point numbers, are positive or negative number data values with one or more 
+decimal points. Their syntax in Python is (float). Strings are text data values that are stored 
+between quotation marks, and their syntax in Python is (str). Boolean values are either true or 
+false, and their syntax in Python is (Bool). A programmer can use the type() function to output 
+the type of data he or she is working with. A particular data type can also be converted into a 
+different data type to allow programmers to seamlessly work with the different data types to 
+produce code. 
+3.	When programming to solve a complex problem, a programmer may find himself repeating 
+similar tasks within the same project and will want to organize this to make the code simpler to 
+understand and efficiently execute. Some of these repeated tasks involves taking an input from 
+the programmer/user to produce an output. Repeating lines of code that perform identical tasks 
+causes the code to be less organized and makes the system work harder by reading more lines 
+of character before executing the code. Programmers remedy this through the use of functions. 
+In Python, the keyword (def) allows lines of code to be mapped to a function name of the 
+programmer’s choice. After defining a function, a programmer can now simply call upon the 
+function’s name to perform the task that was previously coded without using those lines of 
+code.
+4.	Python’s print statement allows a programmer to output messages. Using the print function 
+with the argument “print(/n)” produces blank line. “print(‘’)”will output an empty line. A 
+programmer may choose to use a value directly as an argument to produce the value as an 
+output, or use a variable that represents a value to print that output. Within the print function 
+argument, a programmer can merge different strings and variables that represent strings to 
+produce a concatenated message output. A programmer can use the print function to display all 
+data types, however, there will be an error if they try to merge different data types within the 
+same print function argument. The print function can be used to separate merged arguments 
+using the “sep=” argument. Programmers can also use the print function to write messages to a 
+file by using the “file=” argument within the parentheses. 
